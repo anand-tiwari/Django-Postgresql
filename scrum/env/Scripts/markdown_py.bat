@@ -1,0 +1,1 @@
+@"c:\users\anand\desktop\project\scrum\env\scripts\python.exe" "c:\users\anand\desktop\project\scrum\env\Scripts\markdown_py" %*

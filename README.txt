@@ -1,5 +1,5 @@
 
-How to use :
+How to use :-
 
 http://localhost:8000/  - this url open home page
 http://localhost:8000/crawler  - get the data from the website and store them into json and csv format
